@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Taiyokosen
+Build-Jdk: 15
+Implementation-Title: Forum-Ensak-Entreprise-By-Bgk-Team
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.bgkTeam
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Forum-Ensak-Entreprise-By-Bgk-Team
+Created-By: Maven Integration for Eclipse
+
